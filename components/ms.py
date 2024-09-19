@@ -1,0 +1,5 @@
+print("**********")
+print("Seconds to Minute and Second Converter")
+print("**********\n")
+gs = int(input("Enter amount of seconds: "))
+print("Number of Minutes and Seconds: ",gs//60,":",gs%60)
